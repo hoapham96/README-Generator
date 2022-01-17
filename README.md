@@ -22,3 +22,8 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
+<img width="1440" alt="Screen Shot 2022-01-16 at 8 22 13 PM" src="https://user-images.githubusercontent.com/89959754/149692860-c9d4184d-1861-4b7d-81d1-e16331789da8.png">
+
+<img width="1440" alt="Screen Shot 2022-01-16 at 8 22 04 PM" src="https://user-images.githubusercontent.com/89959754/149693033-0c8afac2-942f-44b6-a7dd-63db55eec54d.png">
+
+![Screen Shot 2022-01-16 at 8 24 19 PM (2)](https://user-images.githubusercontent.com/89959754/149693393-f3f4251b-d591-4732-b1f9-964915ab938c.png)
